@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Eduardo Kimba(url) 👋</h1>
+<h1 align="center">Olá, eu sou Eduardo Kimba👋</h1>
 <p align="center">Desenvolvedor Back-end | Python, Flask, SQL, POO | Apaixonado por criar soluções eficientes 🚀</p>
 
 ---
