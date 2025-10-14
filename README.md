@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/edukimba/edukimba/blob/main/banner-github.png" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Olá, eu sou Eduardo Nascimento 👋</h1>
 <p align="center">Desenvolvedor Back-end | Python, Flask, SQL, POO | Apaixonado por criar soluções eficientes 🚀</p>
 
