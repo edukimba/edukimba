@@ -29,13 +29,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edukimba&show_icons=true&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edukimba&layout=compact&theme=radical" />
-</p>
+
 
 
 
